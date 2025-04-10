@@ -23,7 +23,6 @@ I'm particularly focused on:
 
 - **Languages:** Swift, TypeScript, Ruby, Python, Bash  
 - **Mobile:** SwiftUI, UIKit, Combine  
-- **Backend:** Node.js, Express, PostgreSQL  
 - **Tools:** Xcode, GitHub Actions, Homebrew, Fastlane  
 - **Automation:** Scripting, CI/CD, CLI tools  
 
@@ -44,14 +43,6 @@ I'm particularly focused on:
   <img src="https://github-readme-stats.vercel.app/api?username=lopezquekk&show_icons=true&theme=tokyonight&hide_title=true" />
 </p>
 
----
-
-🤝 **Let’s Connect**
-
-Feel free to reach out for collaboration, freelancing, or just to talk tech!  
-📫 [Your Email or Contact Form]  
-💼 [LinkedIn or Portfolio if available]  
-🌍 Medellín, Colombia  
 
 ---
 
